@@ -62,7 +62,7 @@
 ---
 
 ### **DOWNLOAD & PRINT**  
-→ **[Download as PDF](link-to-pdf)** (Simulated – save this page as PDF!)  
+→ **[Download as PDF](./scrum-ceremony-facilitation-cheat-sheet)** (Simulated – save this page as PDF!)  
 *© 2025 - DeepSeek. Free for internal team use.*  
 
 **Want this customized for your team’s context?** Share your biggest ceremony challenge, and I’ll tailor it!
