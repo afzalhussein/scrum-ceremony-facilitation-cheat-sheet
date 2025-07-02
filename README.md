@@ -62,7 +62,4 @@
 ---
 
 ### **DOWNLOAD & PRINT**  
-→ **[Download PDF](https://github.com/afzalhussein/scrum-ceremony-facilitation-cheat-sheet/blob/main/scrum-ceremony-facilitation-cheat-sheett.pdf))**
-*© 2025 - DeepSeek. Free for internal team use.*  
-
-**Want this customized for your team’s context?** Share your biggest ceremony challenge, and I’ll tailor it!
+→ **[Download PDF](https://github.com/afzalhussein/scrum-ceremony-facilitation-cheat-sheet/blob/main/scrum-ceremony-facilitation-cheat-sheett.pdf)**
