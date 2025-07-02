@@ -63,4 +63,4 @@
 
 ### **DOWNLOAD & PRINT**  
 → **[Click To Download PDF and Click on Download icon on next page](https://github.com/afzalhussein/scrum-ceremony-facilitation-cheat-sheet/blob/main/scrum-ceremony-facilitation-cheat-sheett.pdf)**
-→ Click on Download icon
+
